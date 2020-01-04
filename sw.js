@@ -1,59 +1,59 @@
 var __wpo = {
   "assets": {
     "main": [
-      "/favicon.ico",
-      "/2f1a976c9c35ffed9b7e23cf2cbf8f19.jpg",
-      "/runtime.5fe103ed48f174380b38.js",
-      "/"
+      "/test-gh-pages-app/favicon.ico",
+      "/test-gh-pages-app/2f1a976c9c35ffed9b7e23cf2cbf8f19.jpg",
+      "/test-gh-pages-app/runtime.0cd4185fde9010f79044.js",
+      "/test-gh-pages-app/"
     ],
     "additional": [
-      "/npm.intl.62ffc0b470803cf6ab21.chunk.js",
-      "/npm.redux-saga.73330e91205282f41978.chunk.js",
-      "/npm.webpack.68b1cf86149741bfe920.chunk.js",
-      "/3.a6fa04a4f7399154a494.chunk.js",
-      "/main.acaccb21687265e6f942.chunk.js",
-      "/npm.babel.364fb6b163e5042f4cf5.chunk.js",
-      "/npm.connected-react-router.362ccb4c24f49bb54d3e.chunk.js",
-      "/npm.intl-messageformat.0f3d95f7c9084e392fc0.chunk.js",
-      "/npm.intl-relativeformat.79b9e22b60867bcb7963.chunk.js",
-      "/npm.lodash.de181ad46375093e327f.chunk.js",
-      "/npm.react-app-polyfill.478cb9097f8702465774.chunk.js",
-      "/npm.react-intl.cae773f0a39994aa2dd4.chunk.js",
-      "/npm.react-redux.9ff69fc9264c5519d25c.chunk.js",
-      "/14.43399e6b250f7e12adce.chunk.js",
-      "/15.c6331182983f78960254.chunk.js",
-      "/16.7dadc8c35256a91e95b0.chunk.js",
-      "/17.d6848cc7cc19eb7fbec4.chunk.js"
+      "/test-gh-pages-app/npm.intl.62ffc0b470803cf6ab21.chunk.js",
+      "/test-gh-pages-app/npm.redux-saga.73330e91205282f41978.chunk.js",
+      "/test-gh-pages-app/npm.webpack.68b1cf86149741bfe920.chunk.js",
+      "/test-gh-pages-app/3.a6fa04a4f7399154a494.chunk.js",
+      "/test-gh-pages-app/main.9180f070eb5cb3368075.chunk.js",
+      "/test-gh-pages-app/npm.babel.364fb6b163e5042f4cf5.chunk.js",
+      "/test-gh-pages-app/npm.connected-react-router.362ccb4c24f49bb54d3e.chunk.js",
+      "/test-gh-pages-app/npm.intl-messageformat.0f3d95f7c9084e392fc0.chunk.js",
+      "/test-gh-pages-app/npm.intl-relativeformat.79b9e22b60867bcb7963.chunk.js",
+      "/test-gh-pages-app/npm.lodash.de181ad46375093e327f.chunk.js",
+      "/test-gh-pages-app/npm.react-app-polyfill.478cb9097f8702465774.chunk.js",
+      "/test-gh-pages-app/npm.react-intl.cae773f0a39994aa2dd4.chunk.js",
+      "/test-gh-pages-app/npm.react-redux.9ff69fc9264c5519d25c.chunk.js",
+      "/test-gh-pages-app/14.43399e6b250f7e12adce.chunk.js",
+      "/test-gh-pages-app/15.c6331182983f78960254.chunk.js",
+      "/test-gh-pages-app/16.7dadc8c35256a91e95b0.chunk.js",
+      "/test-gh-pages-app/17.d6848cc7cc19eb7fbec4.chunk.js"
     ],
     "optional": []
   },
   "externals": [],
   "hashesMap": {
-    "5e53ef208f3fa79a48f8374488f473c76e1233de": "/favicon.ico",
-    "d7d2e4d5ea5bceb34497c3839c6c7c1b07f2730b": "/2f1a976c9c35ffed9b7e23cf2cbf8f19.jpg",
-    "dd0a1da9fa779d9ab7980ea9cf6b1801303aa7fd": "/npm.intl.62ffc0b470803cf6ab21.chunk.js",
-    "8216a0a2c0e68898398fb506c6bd0b825a10cebf": "/npm.redux-saga.73330e91205282f41978.chunk.js",
-    "a32b8c4d069544d3731ecbfedfcdba7bb465e691": "/npm.webpack.68b1cf86149741bfe920.chunk.js",
-    "c678f84c8e22d3a8d87132cf3d7ffb2df226da04": "/3.a6fa04a4f7399154a494.chunk.js",
-    "a9c8352b78865fe5c33e5a5bc612d72a2a62beb2": "/main.acaccb21687265e6f942.chunk.js",
-    "b1457aa1b781b101aa882f61679ccca9965d37a5": "/npm.babel.364fb6b163e5042f4cf5.chunk.js",
-    "072b973d1e2cf97cea1576cf4df644fbf9b449fc": "/npm.connected-react-router.362ccb4c24f49bb54d3e.chunk.js",
-    "3c0d789dd1aac9c6ad7b5c23c5318cfe2834006f": "/npm.intl-messageformat.0f3d95f7c9084e392fc0.chunk.js",
-    "a84078e1700af40e46517d881ef3d61952ab3742": "/npm.intl-relativeformat.79b9e22b60867bcb7963.chunk.js",
-    "4505fe44833a2f6e426cdf34621ef4e2ade93cc8": "/npm.lodash.de181ad46375093e327f.chunk.js",
-    "1628afd7e3d188634c4aa0b2d27ea5e7f59a08fd": "/npm.react-app-polyfill.478cb9097f8702465774.chunk.js",
-    "ee7adbce5547e6521fab4340ddfc8dd878bcdc9b": "/npm.react-intl.cae773f0a39994aa2dd4.chunk.js",
-    "bb73c7d3293e5d2cedb650cce35a389aee50c52f": "/npm.react-redux.9ff69fc9264c5519d25c.chunk.js",
-    "7570ae8361555f28808bae6323f4ac6cb7887d34": "/runtime.5fe103ed48f174380b38.js",
-    "f4c8b97ae2d75778133f49c697988864036001d3": "/14.43399e6b250f7e12adce.chunk.js",
-    "6ca26561fc25aef4a74b73556b0be6b27ad3abc6": "/15.c6331182983f78960254.chunk.js",
-    "664f8890018cc3be7994f36d393a0b68aaa0de2d": "/16.7dadc8c35256a91e95b0.chunk.js",
-    "73361e27c453f7b1dd0e0150c1885f3d324eeefa": "/17.d6848cc7cc19eb7fbec4.chunk.js",
-    "7a5604223362eab2e4b789f89ff81f443a05d032": "/"
+    "5e53ef208f3fa79a48f8374488f473c76e1233de": "/test-gh-pages-app/favicon.ico",
+    "d7d2e4d5ea5bceb34497c3839c6c7c1b07f2730b": "/test-gh-pages-app/2f1a976c9c35ffed9b7e23cf2cbf8f19.jpg",
+    "dd0a1da9fa779d9ab7980ea9cf6b1801303aa7fd": "/test-gh-pages-app/npm.intl.62ffc0b470803cf6ab21.chunk.js",
+    "8216a0a2c0e68898398fb506c6bd0b825a10cebf": "/test-gh-pages-app/npm.redux-saga.73330e91205282f41978.chunk.js",
+    "a32b8c4d069544d3731ecbfedfcdba7bb465e691": "/test-gh-pages-app/npm.webpack.68b1cf86149741bfe920.chunk.js",
+    "c678f84c8e22d3a8d87132cf3d7ffb2df226da04": "/test-gh-pages-app/3.a6fa04a4f7399154a494.chunk.js",
+    "fbd66c097f4a2c7a34101b1d10fdadcde3ba73ea": "/test-gh-pages-app/main.9180f070eb5cb3368075.chunk.js",
+    "b1457aa1b781b101aa882f61679ccca9965d37a5": "/test-gh-pages-app/npm.babel.364fb6b163e5042f4cf5.chunk.js",
+    "072b973d1e2cf97cea1576cf4df644fbf9b449fc": "/test-gh-pages-app/npm.connected-react-router.362ccb4c24f49bb54d3e.chunk.js",
+    "3c0d789dd1aac9c6ad7b5c23c5318cfe2834006f": "/test-gh-pages-app/npm.intl-messageformat.0f3d95f7c9084e392fc0.chunk.js",
+    "a84078e1700af40e46517d881ef3d61952ab3742": "/test-gh-pages-app/npm.intl-relativeformat.79b9e22b60867bcb7963.chunk.js",
+    "4505fe44833a2f6e426cdf34621ef4e2ade93cc8": "/test-gh-pages-app/npm.lodash.de181ad46375093e327f.chunk.js",
+    "1628afd7e3d188634c4aa0b2d27ea5e7f59a08fd": "/test-gh-pages-app/npm.react-app-polyfill.478cb9097f8702465774.chunk.js",
+    "ee7adbce5547e6521fab4340ddfc8dd878bcdc9b": "/test-gh-pages-app/npm.react-intl.cae773f0a39994aa2dd4.chunk.js",
+    "bb73c7d3293e5d2cedb650cce35a389aee50c52f": "/test-gh-pages-app/npm.react-redux.9ff69fc9264c5519d25c.chunk.js",
+    "62eb4e98bfae150d444738b356583166617913c1": "/test-gh-pages-app/runtime.0cd4185fde9010f79044.js",
+    "f4c8b97ae2d75778133f49c697988864036001d3": "/test-gh-pages-app/14.43399e6b250f7e12adce.chunk.js",
+    "6ca26561fc25aef4a74b73556b0be6b27ad3abc6": "/test-gh-pages-app/15.c6331182983f78960254.chunk.js",
+    "664f8890018cc3be7994f36d393a0b68aaa0de2d": "/test-gh-pages-app/16.7dadc8c35256a91e95b0.chunk.js",
+    "73361e27c453f7b1dd0e0150c1885f3d324eeefa": "/test-gh-pages-app/17.d6848cc7cc19eb7fbec4.chunk.js",
+    "94a8abd66407d10bc08745a1cbacd4f5d1c23ce5": "/test-gh-pages-app/"
   },
   "strategy": "changed",
   "responseStrategy": "cache-first",
-  "version": "1/3/2020, 10:01:36 PM",
+  "version": "1/3/2020, 10:02:16 PM",
   "name": "webpack-offline",
   "pluginVersion": "5.0.6",
   "relativePaths": false
@@ -138,7 +138,7 @@ var __wpo = {
 /******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
 /******/
 /******/ 	// __webpack_public_path__
-/******/ 	__webpack_require__.p = "/";
+/******/ 	__webpack_require__.p = "/test-gh-pages-app/";
 /******/
 /******/
 /******/ 	// Load entry module and return exports
