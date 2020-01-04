@@ -3,7 +3,7 @@ var __wpo = {
     "main": [
       "/test-gh-pages-app/favicon.ico",
       "/test-gh-pages-app/2f1a976c9c35ffed9b7e23cf2cbf8f19.jpg",
-      "/test-gh-pages-app/runtime.0cd4185fde9010f79044.js",
+      "/test-gh-pages-app/runtime.335bdbd9f97cd9e91929.js",
       "/test-gh-pages-app/"
     ],
     "additional": [
@@ -44,16 +44,16 @@ var __wpo = {
     "1628afd7e3d188634c4aa0b2d27ea5e7f59a08fd": "/test-gh-pages-app/npm.react-app-polyfill.478cb9097f8702465774.chunk.js",
     "ee7adbce5547e6521fab4340ddfc8dd878bcdc9b": "/test-gh-pages-app/npm.react-intl.cae773f0a39994aa2dd4.chunk.js",
     "bb73c7d3293e5d2cedb650cce35a389aee50c52f": "/test-gh-pages-app/npm.react-redux.9ff69fc9264c5519d25c.chunk.js",
-    "62eb4e98bfae150d444738b356583166617913c1": "/test-gh-pages-app/runtime.0cd4185fde9010f79044.js",
+    "012868c4a5fceab3e73086e57362dd5350af027b": "/test-gh-pages-app/runtime.335bdbd9f97cd9e91929.js",
     "f4c8b97ae2d75778133f49c697988864036001d3": "/test-gh-pages-app/14.43399e6b250f7e12adce.chunk.js",
     "6ca26561fc25aef4a74b73556b0be6b27ad3abc6": "/test-gh-pages-app/15.c6331182983f78960254.chunk.js",
     "664f8890018cc3be7994f36d393a0b68aaa0de2d": "/test-gh-pages-app/16.7dadc8c35256a91e95b0.chunk.js",
     "73361e27c453f7b1dd0e0150c1885f3d324eeefa": "/test-gh-pages-app/17.d6848cc7cc19eb7fbec4.chunk.js",
-    "94a8abd66407d10bc08745a1cbacd4f5d1c23ce5": "/test-gh-pages-app/"
+    "7ac8a3f6d6a52731ed273f451e4290150c75b821": "/test-gh-pages-app/"
   },
   "strategy": "changed",
   "responseStrategy": "cache-first",
-  "version": "1/4/2020, 12:04:13 AM",
+  "version": "1/4/2020, 12:46:29 AM",
   "name": "webpack-offline",
   "pluginVersion": "5.0.6",
   "relativePaths": false
@@ -138,7 +138,7 @@ var __wpo = {
 /******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
 /******/
 /******/ 	// __webpack_public_path__
-/******/ 	__webpack_require__.p = "/test-gh-pages-app/";
+/******/ 	__webpack_require__.p = "/test-gh-pages-app";
 /******/
 /******/
 /******/ 	// Load entry module and return exports
